@@ -1,0 +1,15 @@
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\bin\Debug\net6.0\LearnC#Basic2.exe
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\bin\Debug\net6.0\LearnC#Basic2.deps.json
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\bin\Debug\net6.0\LearnC#Basic2.runtimeconfig.json
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\bin\Debug\net6.0\LearnC#Basic2.dll
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\bin\Debug\net6.0\LearnC#Basic2.pdb
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\LearnC#Basic2.csproj.AssemblyReference.cache
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\LearnC#Basic2.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\LearnC#Basic2.AssemblyInfoInputs.cache
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\LearnC#Basic2.AssemblyInfo.cs
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\LearnC#Basic2.csproj.CoreCompileInputs.cache
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\LearnC#Basic2.dll
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\refint\LearnC#Basic2.dll
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\LearnC#Basic2.pdb
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\LearnC#Basic2.genruntimeconfig.cache
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\LearnC#Basic\LearnC#Basic2\obj\Debug\net6.0\ref\LearnC#Basic2.dll

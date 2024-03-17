@@ -1,0 +1,11 @@
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\bin\Debug\maytinhcamtay1.exe.config
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\bin\Debug\maytinhcamtay1.exe
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\bin\Debug\maytinhcamtay1.pdb
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\obj\Debug\maytinhcamtay1.csproj.AssemblyReference.cache
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\obj\Debug\maytinhcamtay1.csproj.SuggestedBindingRedirects.cache
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\obj\Debug\maytinhcamtay1.Form1.resources
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\obj\Debug\maytinhcamtay1.Properties.Resources.resources
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\obj\Debug\maytinhcamtay1.csproj.GenerateResource.cache
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\obj\Debug\maytinhcamtay1.csproj.CoreCompileInputs.cache
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\obj\Debug\maytinhcamtay1.exe
+D:\1.University\2.Learn\2.NgonNguLapTrinh\1.C#\maytinhcamtay1\maytinhcamtay1\obj\Debug\maytinhcamtay1.pdb
