@@ -71,5 +71,15 @@ namespace QuaySo7MayMan
             Form2 form2 = new Form2();
             form2.Show();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ReplaceSMM(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -38,6 +38,9 @@
             this.label3 = new System.Windows.Forms.Label();
             this.End = new System.Windows.Forms.Button();
             this.Support = new System.Windows.Forms.Button();
+            this.Replace = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // Oso1
@@ -150,11 +153,41 @@
             this.Support.UseVisualStyleBackColor = true;
             this.Support.Click += new System.EventHandler(this.OnSupport);
             // 
+            // Replace
+            // 
+            this.Replace.Location = new System.Drawing.Point(901, 260);
+            this.Replace.Name = "Replace";
+            this.Replace.Size = new System.Drawing.Size(95, 37);
+            this.Replace.TabIndex = 10;
+            this.Replace.Text = "Đồng ý";
+            this.Replace.UseVisualStyleBackColor = true;
+            this.Replace.Click += new System.EventHandler(this.ReplaceSMM);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(879, 206);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(117, 26);
+            this.textBox1.TabIndex = 11;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(875, 168);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(136, 20);
+            this.label4.TabIndex = 12;
+            this.label4.Text = "Chọn số may mắn";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(917, 543);
+            this.ClientSize = new System.Drawing.Size(1046, 543);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.Replace);
             this.Controls.Add(this.Support);
             this.Controls.Add(this.End);
             this.Controls.Add(this.label3);
@@ -186,6 +219,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button End;
         private System.Windows.Forms.Button Support;
+        private System.Windows.Forms.Button Replace;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label label4;
     }
 }
 

@@ -12,6 +12,7 @@ namespace QuaySo7MayMan
 {
     public partial class Form2 : Form
     {
+        public int t;
         public Form2()
         {
             InitializeComponent();
